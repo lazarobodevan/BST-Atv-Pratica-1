@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lazarus/Área de Trabalho/UFV/PER/AEDS II/Estudo/AtvPratica1/BSTAluno.c
+BSTAluno.h
+/home/lazarus/Área de Trabalho/UFV/PER/AEDS II/Estudo/AtvPratica1/BSTAluno.h
+string.h
+-
+stdlib.h
+-
+
+/home/lazarus/Área de Trabalho/UFV/PER/AEDS II/Estudo/AtvPratica1/BSTAluno.h
+stdio.h
+-
+

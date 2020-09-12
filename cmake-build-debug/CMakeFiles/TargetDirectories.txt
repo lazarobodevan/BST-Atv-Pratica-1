@@ -1,0 +1,3 @@
+/home/lazarus/Área de Trabalho/UFV/PER/AEDS II/Estudo/AtvPratica1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lazarus/Área de Trabalho/UFV/PER/AEDS II/Estudo/AtvPratica1/cmake-build-debug/CMakeFiles/AtvPratica1.dir
+/home/lazarus/Área de Trabalho/UFV/PER/AEDS II/Estudo/AtvPratica1/cmake-build-debug/CMakeFiles/edit_cache.dir
